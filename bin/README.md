@@ -1,0 +1,4 @@
+- read more about ltl2tgba: [spot.lre.epita.fr/ltl2tgba.html](https://spot.lre.epita.fr/ltl2tgba.html)
+- see DSTAR2TGBA for fine-tuning the ranker output: [spot.lre.epita.fr/man/dstar2tgba.1.html](https://spot.lre.epita.fr/man/dstar2tgba.1.html)
+- see details on the HOA format: [adl.github.io/hoaf/index.html](https://adl.github.io/hoaf/index.html)
+- see details on ranker: [github.com/vhavlena/ranker?tab=readme-ov-file](https://github.com/vhavlena/ranker?tab=readme-ov-file)
