@@ -20,7 +20,7 @@ buchi2_transitions = [
 
 buchi2 = Buchi(["s1", "s2", "s3", "s4"], "s1", ["s4"], ["a","b","c"], buchi2_transitions)
 
-# assert dijkstra_buchi_intersection_emptiness([buchi1,buchi2]) == None
+assert dijkstra_buchi_intersection_emptiness([buchi1,buchi2]) == None
 assert dijkstra_buchi_intersection_emptiness([buchi2, buchi2]) != None
 
 buchi3_transitions = [
